@@ -1,0 +1,2 @@
+Income,bussiness,20000.0,2025-05-09
+Expense,food,3000.0,2025-05-18
