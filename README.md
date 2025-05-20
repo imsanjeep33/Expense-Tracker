@@ -63,8 +63,11 @@ Expense,Food,150.75,2025-05-02
 
 1. Ensure you have Java installed (JDK 8 or higher).
 2. Compile the code:
-javac Main.java ExpenseTracker.java Transaction.java
+javac
+ Main.java
+ ExpenseTracker.java
+ Transaction.java
 
-3. Run the program:
+4. Run the program:
 java Main
-4. Follow the on-screen instructions to use the tracker.
+5. Follow the on-screen instructions to use the tracker.
